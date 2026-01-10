@@ -10,4 +10,4 @@ npm -v
 npm install -g newman
 
 # Lancement de Newman 
-newman run collection.json
+newman run CollectionRunner.postman_collection.json
