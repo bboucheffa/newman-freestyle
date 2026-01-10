@@ -11,5 +11,3 @@ npm install -g newman
 
 # Lancement de Newman 
 newman run CollectionRunner.postman_collection.json
-
-#test
