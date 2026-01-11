@@ -6,7 +6,7 @@ set -e   # arrêter le script à la première erreur
 node -v
 npm -v
 
-# Installation de Newman 
+# Installation de Newman
 npm install -g newman
 npm install -g newman newman-reporter-htmlextra
 
