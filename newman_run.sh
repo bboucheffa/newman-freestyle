@@ -13,5 +13,5 @@ npm install -g newman newman-reporter-htmlextra
 # Lancement de Newman 
 newman run CollectionRunner.postman_collection.json
 
-# Génerer le rapport
+# Génerer le rapport 
 newman run CollectionRunner.postman_collection.json -r htmlextra --reporter-htmlextra-export
