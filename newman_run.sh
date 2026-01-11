@@ -8,6 +8,7 @@ npm -v
 
 # Installation de Newman 
 npm install -g newman
+npm install newman newman-reporter-htmlextra --save-dev
 
 # Lancement de Newman 
 newman run CollectionRunner.postman_collection.json
